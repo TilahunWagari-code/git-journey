@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello I added "I am only in main branch" I also added you here in development branch
+=======
+Hello I added "I am only in main branch" what if i added you here
+>>>>>>> staging
